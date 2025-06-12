@@ -1,0 +1,9 @@
+.centro{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+
+align-items: center;
+align-content: center;
+
+}
